@@ -1,0 +1,25 @@
+{
+  "name": "saurabh_calculator",
+  "version": "1.0.1",
+  "description": "This is a demo saurabh_calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node specs/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sawasthi00/saurabh_calculator.git"
+  },
+  "keywords": [
+    "calculator"
+  ],
+  "author": "Saurabh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sawasthi00/saurabh_calculator/issues"
+  },
+  "homepage": "https://github.com/sawasthi00/saurabh_calculator",
+  "devDependencies": {
+    "jasmine-node": "~1.13.1"
+  }
+}
